@@ -4,11 +4,12 @@
 
 ## My Biggest Project:
 [Poxrcx](https://poxrcx.vercel.app/)
+
 [Dispify](https://dispify.vercel.app/)
 
 ### I'm trying to learn
 
-- [<img align="left" alt="Python" width="26px" src="./img/python.svg" />]
+- <img align="left" alt="Python" width="26px" src="./img/python.svg" />
 
 #### Languages and Tools I use:
 
