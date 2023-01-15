@@ -9,7 +9,7 @@
 
 ### I'm trying to learn
 
-- <img align="left" alt="Python" width="26px" src="./img/python.svg" />
+- <img align="left" alt="Python" width="26px" src="./img/python.svg" /> <p>Python</p>
 
 #### Languages and Tools I use:
 
