@@ -1,6 +1,6 @@
 # Hello I'm codernocook
 
-[![Discord Server](https://discord.gg/5CkMBwgkJX)]
+[Discord Server](https://discord.gg/5CkMBwgkJX)
 
 ## My Biggest Project:
 [Poxrcx](https://poxrcx.vercel.app/)
@@ -8,7 +8,7 @@
 
 ### I'm trying to learn
 
-- [<img align="left" alt="Python" width="26px" src="./img/python.svg" />][python.py] Python
+- [<img align="left" alt="Python" width="26px" src="./img/python.svg" />][python.py]
 
 #### Languages and Tools I use:
 
